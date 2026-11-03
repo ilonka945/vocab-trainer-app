@@ -1,0 +1,1 @@
+import{Tt as e,dn as t,dt as n,ln as r,lt as i,ot as a}from"./useApi-BPuI6ZR9-Uiw5Ut9L.js";var o={__name:`StatusBadge`,props:{status:{type:String,required:!0}},setup(o){let s={new:`New`,learning:`Learning`,weak:`Weak`,strong:`Strong`};return(c,l)=>(e(),i(`span`,{class:r([`badge`,o.status])},[l[0]||=a(`span`,{class:`dot`},null,-1),n(t(s[o.status]),1)],2))}};export{o as t};
